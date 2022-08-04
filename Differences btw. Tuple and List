@@ -1,0 +1,6 @@
+1 TUPLE is "immutable" while LIST is "mutable"
+2 TUPLE is "fast while LIST is "slow"
+3 TUPLE needs "less memory" while LIST needs "more memory"
+4 TUPLE needs "less method while LIST needs more method"
+5 TUPLE uses parenthesis "round bracket()" while LIST uses "square bracket []"
+6 TUPLE "can be used as key for dictionaries" but LIST "cannot be used as key for dictionaries"
